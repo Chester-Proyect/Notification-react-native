@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "332908580094",
+    "firebase_url": "https://chazki-link-beta-default-rtdb.firebaseio.com",
+    "project_id": "chazki-link-beta",
+    "storage_bucket": "chazki-link-beta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332908580094:android:cbfaf67035b33eb161a9af",
+        "android_client_info": {
+          "package_name": "com.alarmproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332908580094-sbcieua5c9iusqrlo4bmgobh3f91lq5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGf28PfN5MYeMGi_Yqd3h5lVIkInSAW0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332908580094-sbcieua5c9iusqrlo4bmgobh3f91lq5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332908580094:android:f9f2125d888a928361a9af",
+        "android_client_info": {
+          "package_name": "com.chazki.driverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332908580094-sbcieua5c9iusqrlo4bmgobh3f91lq5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGf28PfN5MYeMGi_Yqd3h5lVIkInSAW0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332908580094-sbcieua5c9iusqrlo4bmgobh3f91lq5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
